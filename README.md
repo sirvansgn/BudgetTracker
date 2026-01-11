@@ -16,6 +16,14 @@ BudgetTracker, kullanıcıların gelir ve giderlerini mobil ortamda kaydedip tak
 - 📊 Toplam gelir, gider ve bakiye özeti  
 - 🔄 Ekranlar arası geçiş (Intent)
 
+## 🚀 Örnek Resimler
+
+<img width="389" height="692" alt="3" src="https://github.com/user-attachments/assets/9ec6e54f-7777-4b97-93a5-6f52b0dd5cd7" />
+
+<img width="369" height="657" alt="2" src="https://github.com/user-attachments/assets/7a04150d-3876-4c94-82bb-c577bcd408b8" />
+
+<img width="357" height="625" alt="1" src="https://github.com/user-attachments/assets/b7068c32-2402-48fb-8a85-7f00320384ef" />
+
 ## 🛠 Kullanılan Teknolojiler
 - Programlama Dili: Java  
 - Geliştirme Ortamı: Android Studio  
@@ -30,6 +38,4 @@ BudgetTracker, kullanıcıların gelir ve giderlerini mobil ortamda kaydedip tak
 - Liste
 - Özet
 
-(Ekran görüntüleri rapor dosyasında yer almaktadır.)
 
-## 📁 Proje Yapısı
